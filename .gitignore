@@ -1,0 +1,5 @@
+.idea/
+.venv/
+*.cia
+build/
+mods/romfs/Sound/se_voice/*.bcwav
