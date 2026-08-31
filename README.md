@@ -1,5 +1,9 @@
 # radiant-historia-undub
 
+<p align="center">
+  <img width="512" height="512" alt="header" src="https://github.com/user-attachments/assets/0f779785-7557-4cb4-a77e-d6470f13a005" />
+</p>
+
 ## Description
 An automated Python utility to build a Japanese audio undub for Radiant Historia: Perfect Chronology (3DS).
 
