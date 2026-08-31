@@ -37,7 +37,7 @@ def get_rsf_path(rsf_dir: Path) -> Path:
     }
     while True:
         try:
-            region = int(input("Choose region (1 - EUR, 2 - USA): "))
+            region = int(input("Select a region (1 - EUR, 2 - USA): "))
             if region not in region_map:
                 logger.info("Invalid number. Please enter 1 or 2.\n")
                 continue
